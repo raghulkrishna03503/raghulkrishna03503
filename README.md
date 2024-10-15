@@ -17,6 +17,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghulkrishna03503" alt="raghulkrishna03503" /></a> </p>
 <hr>
 
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 - 🔭 I’m currently working on RL-Based VR Games for Cognitive Therapy in Children and Young Adults with Movement Disorders</h4>(https://github.com/raghulkrishna03503/RL-Based-VR-Games-for-Cognitive-Therapy-in-Children-and-Young-Adults-with-Movement-Disorders)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-raghul.vercel.app/](https://portfolio-raghul.vercel.app/)
